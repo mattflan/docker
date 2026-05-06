@@ -1,1 +1,1 @@
-docker
+Initial configuration of git for my docker compose files
